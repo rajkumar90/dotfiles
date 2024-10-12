@@ -81,7 +81,7 @@ alias gst='git stash'
 alias gcom='git checkout master'
 alias gpom='git pull origin main'
 alias gpl='git pull'
-alias gps='git push'
+alias gps='git push origin HEAD'
 alias grm='git rebase main'
 alias grc='git rebase --continue'
 alias gsw='git switch'
@@ -129,3 +129,4 @@ export NVM_DIR="$HOME/.nvm"
 eval "$(github-copilot-cli alias -- "$0")"
 source ~/.devrc
 source /Users/rmani/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
