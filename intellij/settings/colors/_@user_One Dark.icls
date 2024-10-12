@@ -1,0 +1,15 @@
+<scheme name="_@user_One Dark" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2023-11-21T15:06:32</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2023.2.5.0.0</property>
+    <property name="modified">2024-10-08T18:06:14</property>
+    <property name="originalScheme">One Dark</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.markskelton.one-dark-theme</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+</scheme>

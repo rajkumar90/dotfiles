@@ -1,0 +1,3 @@
+com.markskelton.one-dark-theme
+com.github.copilot
+github.cweijan.test-theme
